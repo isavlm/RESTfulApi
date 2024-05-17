@@ -283,3 +283,5 @@ describe("TESTING MODULES", () => {
     });
   });
 });
+
+//test file follows SOLID and possibly FACTORY methods.
