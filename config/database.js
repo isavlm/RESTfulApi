@@ -13,3 +13,5 @@ const dbOptions = {
 const dbConnection = mongoose.createConnection(dbURL, dbOptions)
 
 export default dbConnection
+
+//this file follows Santiago's file.
